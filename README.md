@@ -2,8 +2,9 @@
 
 A modern, responsive web application that replicates the Google Gemini AI interface with real-time chat functionality, file upload support, and a beautiful user experience.
 
-## ✨ Features
+🔗 **Live Demo**: [gemini-clone-info.vercel.app](https://gemini-clone-info.vercel.app/)
 
+## ✨ Features
 ### 🎯 Core Functionality
 - **Real-time AI Chat**: Interactive conversation with Google Gemini AI
 - **File Upload Support**: Upload images, PDFs, text files, and CSV files
